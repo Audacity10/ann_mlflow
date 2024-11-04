@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/chirag/Developer/Practice/02_DL_MLFLOW/mlruns/362752652517166196/4953da801439450a86aff9d225571469/artifacts
+end_time: 1730718269561
+entry_point_name: ''
+experiment_id: '362752652517166196'
+lifecycle_stage: active
+run_id: 4953da801439450a86aff9d225571469
+run_name: rambunctious-yak-484
+run_uuid: 4953da801439450a86aff9d225571469
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730718269548
+status: 4
+tags: []
+user_id: chirag

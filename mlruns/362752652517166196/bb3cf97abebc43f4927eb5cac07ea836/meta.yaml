@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/chirag/Developer/Practice/02_DL_MLFLOW/mlruns/362752652517166196/bb3cf97abebc43f4927eb5cac07ea836/artifacts
+end_time: 1730718453333
+entry_point_name: ''
+experiment_id: '362752652517166196'
+lifecycle_stage: active
+run_id: bb3cf97abebc43f4927eb5cac07ea836
+run_name: receptive-bat-878
+run_uuid: bb3cf97abebc43f4927eb5cac07ea836
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730718448560
+status: 3
+tags: []
+user_id: chirag

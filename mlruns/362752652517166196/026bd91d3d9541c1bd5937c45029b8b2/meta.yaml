@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/chirag/Developer/Practice/02_DL_MLFLOW/mlruns/362752652517166196/026bd91d3d9541c1bd5937c45029b8b2/artifacts
+end_time: 1730717900298
+entry_point_name: ''
+experiment_id: '362752652517166196'
+lifecycle_stage: active
+run_id: 026bd91d3d9541c1bd5937c45029b8b2
+run_name: carefree-hound-663
+run_uuid: 026bd91d3d9541c1bd5937c45029b8b2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730717900293
+status: 4
+tags: []
+user_id: chirag

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/chirag/Developer/Practice/02_DL_MLFLOW/mlruns/362752652517166196/25fb06cd67ef4f6fb92728d9aa6bf190/artifacts
+end_time: 1730718455871
+entry_point_name: ''
+experiment_id: '362752652517166196'
+lifecycle_stage: active
+run_id: 25fb06cd67ef4f6fb92728d9aa6bf190
+run_name: capable-stork-252
+run_uuid: 25fb06cd67ef4f6fb92728d9aa6bf190
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730718453349
+status: 3
+tags: []
+user_id: chirag

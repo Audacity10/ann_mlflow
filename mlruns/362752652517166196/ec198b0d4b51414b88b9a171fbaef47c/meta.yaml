@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/chirag/Developer/Practice/02_DL_MLFLOW/mlruns/362752652517166196/ec198b0d4b51414b88b9a171fbaef47c/artifacts
+end_time: 1730718458428
+entry_point_name: ''
+experiment_id: '362752652517166196'
+lifecycle_stage: active
+run_id: ec198b0d4b51414b88b9a171fbaef47c
+run_name: useful-shad-191
+run_uuid: ec198b0d4b51414b88b9a171fbaef47c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730718455886
+status: 3
+tags: []
+user_id: chirag
